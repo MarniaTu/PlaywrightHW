@@ -1,0 +1,12 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+user.js
+package-lock.json
+tests-examples/
+example.spec.js
+screenshot1.png
+screenshot2.png
+screenshot3.png
